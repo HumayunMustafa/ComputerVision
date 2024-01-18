@@ -1,0 +1,6 @@
+# requirement for Pytorch, Torchvision, TorchText
+torch
+torchvision
+torchtext
+torchaudio
+torchdata
